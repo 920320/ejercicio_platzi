@@ -3,4 +3,9 @@ buenas tardes
 mi nueva actualizacion estara disponible el 25 de abri
 nueva fecha
 estoy en proceso de aprendizaje
+<<<<<<< HEAD
 actualizacion desde el repositorio master 
+=======
+cabecera
+esta es una nueva actualizacion de cabecera_1
+>>>>>>> cabecera_1
